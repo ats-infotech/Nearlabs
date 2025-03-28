@@ -1,6 +1,0 @@
-module Pods_NearLab {
-  umbrella header "Pods-NearLab-umbrella.h"
-
-  export *
-  module * { export * }
-}
