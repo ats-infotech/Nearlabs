@@ -1,0 +1,15 @@
+export const Colors = {
+    whiteColor: '#FFFFFF',
+    appColor: '#FFDE59',
+    yellow: '#FFCE20',
+    gray:"#F2F2F2",
+    lightGray:'#828282',
+    textColor:'#4F4F4F',
+    backgroundText:'#F9F9F9',
+    borderColor:'#CFCFCF',
+    darkGray:'#BDBDBD',
+    sepratorColor:"#E3E3E3",
+    blue:"#2F80ED",
+    black:"#000000",
+    subTextColor:'#808080',
+};
